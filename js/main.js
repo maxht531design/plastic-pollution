@@ -15,7 +15,7 @@
       'header.category': 'Environment • Global Problems',
       'header.title': 'Plastic Pollution',
       'header.subtitle': 'The world has a big problem with plastic pollution because of the damage it causes to oceans, animals, and human health. One possible solution is to move toward a circular plastic economy.',
-      'header.updated': 'Last updated: 2026',
+      'header.updated': 'Last updated: 2025',
       'header.readtime': '5 min read',
       'title': 'Plastic Pollution | Global Problem & Solutions',
 
@@ -126,7 +126,7 @@
       'footer.conn1': 'Newsletter',
       'footer.conn2': 'Social media',
       'footer.conn3': 'Contact',
-      'footer.copyright': '© 2026 Plastic Pollution Encyclopedia. Educational content.'
+      'footer.copyright': '© 2025 Plastic Pollution Encyclopedia. Educational content.'
     },
     es: {
       // Header
