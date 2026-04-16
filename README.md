@@ -2,6 +2,10 @@
 
 Sitio web sobre la contaminación plástica y sus soluciones.
 
+## 👉 Enlace 
+
+https://maxht531design.github.io/plastic-pollution/
+
 ## 🌊 Estructura del Proyecto
 
 ```
@@ -16,6 +20,6 @@ plastic-pollution-web/
 
 
 
-## 📄 Licencia
 
-Contenido educativo de libre uso.
+
+
